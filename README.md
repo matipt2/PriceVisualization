@@ -37,3 +37,7 @@ The project generates outputs such as:
 -  ## Plots
 - ![Bar Chart](/images/permeter.png)
 - ![Bar Chart](/images/price.png)
+-![Bar Chart](/images/districtsfrequency.png)
+-![Bar Chart](/images/numberofrooms.png)
+-![Bar Chart](/images/priceperarea.png)
+
