@@ -25,12 +25,6 @@ The project consists of several functions that perform the following tasks:
 - **Data Analysis**: It calculates average prices for each district and visualizes the data using `matplotlib` and `folium`.
 - **Visualization**: It generates visualizations such as bar charts and heat maps to represent the data effectively.
 
-## Example Outputs
-
-The project generates outputs such as:
-
-- A map displaying average prices in different districts of Krakow.
-- Bar charts showing average prices and price per square meter for each district.
 
 - ## Heatmap
 - ![HeatMap](/images/heatmap.png)
